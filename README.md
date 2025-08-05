@@ -87,12 +87,5 @@ Password: SeattleGrace1!  # Pre-registered in demo
 | Ordered Collection | `list` | Ward bed assignments |
 
 ---
-
-## Contribution Guidelines
-1. Report issues in GitHub tracker
-2. Use PEP-8 coding standards
-3. Include tests for new features
-4. Update documentation with changes
-
 > "Good data structures are like well-organized hospital wards - they save lives (and runtime)!" 🐍💉
 ```
