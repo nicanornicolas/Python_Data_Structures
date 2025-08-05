@@ -3,9 +3,6 @@
 ```markdown
 Python Data Structures for Hospital Management Systems
 
-![Hospital-Information-Management-System-scaled](https://www.manoramahealthcare.com/blog/wp-content/uploads/2022/10/Hospital-Information-Management-System-scaled.jpg))
-
-
 This guide explores Python data structures through hospital management analogies, making complex concepts intuitive and practical. All code uses **Python 3.13** with zero external dependencies.
 
 ---
