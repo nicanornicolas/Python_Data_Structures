@@ -22,7 +22,7 @@ This guide explores Python data structures through hospital management analogies
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourrepo/hospital-ds.git](https://github.com/chankjen/Python_Data_Structures.git)
+git clone https://github.com/chankjen/Python_Data_Structures.git
 cd hospital-ds
 ```
 
@@ -96,4 +96,3 @@ Password: SeattleGrace1!  # Pre-registered in demo
 
 > "Good data structures are like well-organized hospital wards - they save lives (and runtime)!" 🐍💉
 ```
-
