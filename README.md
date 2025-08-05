@@ -1,12 +1,12 @@
 ### Comprehensive Guide: Python Data Structures in Hospital Management 🏥🐍
 
 ```markdown
-# Python Data Structures for Hospital Management Systems
+## Python Data Structures for Hospital Management Systems
 
 ![Hospital-Information-Management-System-scaled](https://github.com/user-attachments/assets/a1e388d4-ce1a-439b-a017-25b3e8b69a65)
 
 
-This guide explores Python data structures through hospital management analogies, making complex concepts intuitive and practical. All code uses **Python 3.13** with zero external dependencies.
+###This guide explores Python data structures through hospital management analogies, making complex concepts intuitive and practical. All code uses **Python 3.13** with zero external dependencies.
 
 ---
 
